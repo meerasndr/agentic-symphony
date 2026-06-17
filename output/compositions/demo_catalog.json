@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "filename": "output/compositions/demo_01.mid",
+    "seed": 1000,
+    "bars": 16,
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "filename": "output/compositions/demo_02.mid",
+    "seed": 1001,
+    "bars": 16,
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "filename": "output/compositions/demo_03.mid",
+    "seed": 1002,
+    "bars": 16,
+    "notes": ""
+  }
+]
